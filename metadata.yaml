@@ -1,0 +1,28 @@
+_repo: Sabbath-in-Puritan-New-England_8659
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- To 1775'
+- !lcsh 'Sunday'
+- !lcsh 'New England -- Religious life and customs'
+- !lcc 'F001'
+- GITenberg
+title: Sabbath in Puritan New England
+url: http://www.gutenberg.org/ebooks/8659
