@@ -1,5 +1,8 @@
 _repo: Sabbath-in-Puritan-New-England_8659
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Earle, Alice Morse
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2836'
     url: http://www.gutenberg.org/2009/agents/2836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8659#Sabbath-in-Puritan-New-England
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
